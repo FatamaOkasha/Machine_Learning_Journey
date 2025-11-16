@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-This repository showcases my Machine Learning projects and assignments in my masters degree in Ai 
+This repository showcases my Machine Learning projects and assignments in my masters degree in AI,  It includes implementations of core ML concepts, data analysis, and visualization using Python.
 
 ## Projects
 
