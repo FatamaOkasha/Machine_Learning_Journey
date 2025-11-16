@@ -1,6 +1,6 @@
 # Machine Learning Journey
 
-This repository showcases my Machine Learning projects and assignments.
+This repository showcases my Machine Learning projects and assignments in my masters degree in Ai 
 
 ## Projects
 
